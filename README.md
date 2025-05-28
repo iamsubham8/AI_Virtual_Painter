@@ -30,16 +30,24 @@
 
 Output:
 
+This is the user interface of the project.
+
 ![Screenshot 2025-05-04 171344](https://github.com/user-attachments/assets/542da850-f86b-4e0c-8f2a-1a4cfef2cbc2)
 
 
 ![Screenshot 2025-05-04 171300](https://github.com/user-attachments/assets/50c6e397-c4a1-4f87-a679-7df8f7c5463c)
 
 
+User can select any color with the help of index finger.
+
 ![Screenshot 2025-05-04 171443](https://github.com/user-attachments/assets/b9aad44a-df25-4748-b483-e74b4a568186)
 
 
+This is the input Screen where user can draw anything with the help of index finger.
+
 ![Screenshot 2025-05-04 171902](https://github.com/user-attachments/assets/22274b25-368d-41b3-a130-fc2076ca99be)
 
+
+This is the final output screen.
 
 ![Screenshot 2025-05-04 171912](https://github.com/user-attachments/assets/04dd251e-37bc-4ce4-b08d-bd35098997b1)
